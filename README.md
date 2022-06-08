@@ -15,7 +15,7 @@ Piotr Kijewski
 
 
 
-🚀 **[I would like to thank Ryan Fitzgerald for providing the template to create my portfolio.](https://github.com/RyanFitzgerald/devfolio)** 🚀
+**[I would like to thank Ryan Fitzgerald for providing the template to create my portfolio.](https://github.com/RyanFitzgerald/devfolio)**
 
 ## License
 
